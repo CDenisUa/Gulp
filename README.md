@@ -1,4 +1,4 @@
-# gulp
+# Gulp
 
 ## npm start - запуск gulp.
 
